@@ -1,3 +1,5 @@
+In this application Unsplash's API are used to get images. Unsplash's User access token is used to get images by http methods.
+
 # unsplash_screen
 
 A new Flutter project.
